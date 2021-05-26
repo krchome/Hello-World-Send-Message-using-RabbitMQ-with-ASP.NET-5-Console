@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Send": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "SmtpOptions"
+      }
+    }
+  }
+}
